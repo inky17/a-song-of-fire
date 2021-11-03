@@ -1,0 +1,18 @@
+V. 1.0.2
+
+- Scenarios
+    - Rain of Fire & Twilight of the Kingdoms: Corrected typo for allied gold
+	- Council with the King, pt 2: Myra may now speak with some of the other characters
+	- The Sky Dragon Descends: replaced Sky Crystals with Yansa's Tears
+	- Last Revelations & Wrath of the Heavens: Corrected missing Liliel bug
+
+
+- Scenarios (general)
+    - Some changes to character lines
+
+- Artwork
+	- New portrait for Tarkyn
+	
+- Units
+	- Abhai now has his own unit type
+	- Corrected a few missing animation for units
