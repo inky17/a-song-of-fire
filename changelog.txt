@@ -1,7 +1,11 @@
 V. 1.0.4
 
-- Scenarios
+- General
+        - Ported to Wesnoth 1.16.
+        - Due to removal of the deprecated AI_CONTROLLER macro, it's not possible to issue instructions to allied sides anymore in certain scenarios (the instructions really didn't do much so this shouldn't affect gameplay).
 
+- Scenarios
+        - It's no longer possible to win the survival scenarios S4 Lightning Strike or S13 Twilight of the Kingdoms by defeating all enemy leaders. This is somewhat of a temporary fix to avoid missing out on the leader Dvalin or the ending dialogue.
 
 - Units
 	- Added back Ethereal Orbs which were removed from War of Legends, renamed the old version of the Wisp to Ethereal Wisp.
